@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/jwwheeleriv/nodeJS-simple-file-upload#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "formidable": "^1.2.1",
     "fs": "0.0.1-security"
   }
